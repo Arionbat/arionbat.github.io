@@ -6,7 +6,7 @@
   <link href="https://arionbat.github.io/atom.xml" rel="self"/>
   
   <link href="https://arionbat.github.io/"/>
-  <updated>2022-01-10T05:56:08.200Z</updated>
+  <updated>2022-01-11T08:56:11.168Z</updated>
   <id>https://arionbat.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>图床搭建</title>
+    <link href="https://arionbat.github.io/2022/01/11/%E5%9B%BE%E5%BA%8A%E6%90%AD%E5%BB%BA/"/>
+    <id>https://arionbat.github.io/2022/01/11/%E5%9B%BE%E5%BA%8A%E6%90%AD%E5%BB%BA/</id>
+    <published>2022-01-11T07:38:52.000Z</published>
+    <updated>2022-01-11T08:56:11.168Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;图床搭建&quot;&gt;&lt;a href=&quot;#图床搭建&quot; class=&quot;headerlink&quot; title=&quot;图床搭建&quot;&gt;&lt;/a&gt;图床搭建&lt;/h1&gt;&lt;h3 id=&quot;一、购买阿里云OSS对象存储搭建图床服务&quot;&gt;&lt;a href=&quot;#一、购买阿里云OSS对象存储搭建图床服务&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="markdowns" scheme="https://arionbat.github.io/categories/markdowns/"/>
+    
+    
+    <category term="工具" scheme="https://arionbat.github.io/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+  </entry>
   
   <entry>
     <title>vuex创建Action的简单封装</title>
